@@ -1,2 +1,0 @@
-allow: *
-This template is used to learn Git with zahra:)))
